@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, yes, always learning...
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ... send me an email
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chameleon
 
 <!---
