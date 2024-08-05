@@ -7,7 +7,7 @@
 - Music producer - https://www.youtube.com/@chrisanich4373
 - 🌱 I’m currently learning, always learning, that's the good part of everything...
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ... send me an email
+- 📫 How to reach me ... send me an email: chrisaniches@gmail.com
 
 <!---
 chrisanich/chrisanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
