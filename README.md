@@ -8,6 +8,9 @@
 - 🌱 I’m always learning, that's the good part of everything...
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ... send me an email: chrisaniches@gmail.com
+- SOCIAL MEDIA:
+   - instagram.com/revediscos/
+   - facebook.com/revediscos/
 
 <!---
 chrisanich/chrisanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
