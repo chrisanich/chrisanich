@@ -9,7 +9,8 @@
 - Music Producer (20 years of studies and experience) - https://www.youtube.com/@chrisanich4373
 - 🌱 I’m always learning, that's the good part of everything...
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ... send me an email: chrisaniches@gmail.com
+- 📫 How to reach me ...
+         Send me an email: chrisanich@linux.com
 - SOCIAL MEDIA:
    - instagram.com/revediscos/
    - facebook.com/revediscos/
