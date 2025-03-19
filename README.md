@@ -4,8 +4,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chameleon
 - MSc. in Data Analytics Student (NFQ level 9, Ireland)
-- Medical Doctor (10 years of clinical experience in several fields)
 - Computer Scientist (NFQ level 8, Ireland)
+- Cloud Native Developer
+- Medical Doctor (12 years of clinical experience in several fields)
 - Music Producer (20 years of studies and experience) - https://www.youtube.com/@chrisanich4373
 - 🌱 I’m always learning, that's the good part of everything...
 - 💞️ I’m looking to collaborate ...
