@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/bc8acb24-dfb0-4a88-9ae6-48e8089043a9" alt="deepLearning" width="500"/>
+<img src="https://github.com/user-attachments/assets/bc8acb24-dfb0-4a88-9ae6-48e8089043a9" alt="deepLearning" width="600"/>
 
 - 👋 Hi, I’m @chrisanich
 - 😄 Pronouns: He/Him
