@@ -1,15 +1,8 @@
 <img src="https://github.com/user-attachments/assets/bc8acb24-dfb0-4a88-9ae6-48e8089043a9" alt="deepLearning" width="600"/>
 
-- Hi, I’m @chrisanich
-- Pronouns: He/Him
-- Fun fact: Chameleon
-- Medical Doctor (14 years of clinical experience in several fields)
-- MSc. in Data Analytics (NFQ level 9, Ireland)
-- Computer Scientist (NFQ level 8, Ireland)
-- Cloud Native Software Developer (Linux Foundation)
-- AI for embedded systems
-- Music Producer (20 years of studies and experience) - https://www.youtube.com/@chrisanich4373
-- I’m always learning
+I’m a medical doctor with fourteen years of clinical experience across several fields, now combining my background in medicine with advanced data analytics, computer science, and AI. I hold an MSc in Data Analytics (NFQ Level 9, Ireland) and a Higher Diploma in Computer Science (NFQ Level 8, Ireland). My current work focuses on AI for embedded systems and cloud-native software development.
+
+Beyond technology and medicine, I’m a passionate music producer with over twenty years of studies and experience in music creation and production — you can find some of my work at [youtube.com/@chrisanich4373](https://www.youtube.com/@chrisanich4373)
   
 - SOCIAL MEDIA:
    - linkedin.com/in/christopher-anich-598555232/
