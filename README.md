@@ -9,7 +9,7 @@
 - Cloud Native Software Developer (Linux Foundation)
 - AI for embedded systems
 - Music Producer (20 years of studies and experience) - https://www.youtube.com/@chrisanich4373
-- 🌱 I’m always learning, that's the good part of everything...
+- 🌱 I’m always learning
   
 - SOCIAL MEDIA:
    - linkedin.com/in/christopher-anich-598555232/
