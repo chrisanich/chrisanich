@@ -1,11 +1,10 @@
-I’m a medical doctor with fourteen years of clinical experience across several fields, now combining my background in medicine with advanced data analytics, computer science, and AI. I hold an MSc in Data Analytics (NFQ Level 9, Ireland) and a Higher Diploma in Computer Science (NFQ Level 8, Ireland). My current work focuses on AI for embedded systems and cloud-native software development.
+I’m a medical doctor with thirteen years of clinical experience, now integrating my background with data science, computer science, and AI. I hold an MSc in Data Analytics (NFQ Level 9, Ireland) and an undergraduate degree in Computer Science (NFQ Level 8, Ireland). My work focuses on AI for embedded systems, cloud-native systems, and the design of scalable, data-driven intelligent platforms.
 
-Beyond technology and medicine, I’m a passionate music producer with over twenty years of studies and experience in music creation, production and internationalisation. You can find some of my work at [youtube.com/@chrisanich4373](https://www.youtube.com/@chrisanich4373).
+Beyond technology and medicine, I am a music producer with over twenty years of experience in composition, production, and internationalisation. You can find some of my art at [youtube.com/@chrisanich4373](https://www.youtube.com/@chrisanich4373).
   
 - SOCIAL MEDIA:
    - linkedin.com/in/christopher-anich-598555232/
-   - instagram.com/revediscos/
-   - facebook.com/revediscos/
+   - instagram.com/chrisanich/
 
 <!---
 chrisanich/chrisanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
